@@ -8,6 +8,7 @@ public class Test {
 		testSelectAll();
 		System.out.println("v1");
 		System.out.println("v2");
+		System.out.println("v3");
 	}
 
 	static void testSelectAll() throws Exception {
