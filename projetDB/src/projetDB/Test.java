@@ -6,6 +6,8 @@ public class Test {
 
 	public static void main(String[] args) throws Exception {
 		testSelectAll();
+		System.out.println("v1");
+		System.out.println("v2");
 	}
 
 	static void testSelectAll() throws Exception {
